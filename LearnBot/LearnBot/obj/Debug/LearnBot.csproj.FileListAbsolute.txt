@@ -1,0 +1,6 @@
+c:\users\dunag_000\documents\visual studio 2015\Projects\LearnBot\LearnBot\bin\Debug\LearnBot.exe.config
+c:\users\dunag_000\documents\visual studio 2015\Projects\LearnBot\LearnBot\bin\Debug\LearnBot.exe
+c:\users\dunag_000\documents\visual studio 2015\Projects\LearnBot\LearnBot\bin\Debug\LearnBot.pdb
+c:\users\dunag_000\documents\visual studio 2015\Projects\LearnBot\LearnBot\obj\Debug\LearnBot.csprojResolveAssemblyReference.cache
+c:\users\dunag_000\documents\visual studio 2015\Projects\LearnBot\LearnBot\obj\Debug\LearnBot.exe
+c:\users\dunag_000\documents\visual studio 2015\Projects\LearnBot\LearnBot\obj\Debug\LearnBot.pdb
